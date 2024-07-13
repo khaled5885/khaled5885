@@ -4,9 +4,7 @@
 </h1>
 #Python programmer
 
-<div align="center">
-  <img src="https://github.com/khaled5885/Khaled-Walid/blob/main/Well-paying-Tech-Jobs.jpg" width="600" height="300"/>
-</div>
+
 
 
 <picture>
