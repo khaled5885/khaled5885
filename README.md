@@ -26,7 +26,7 @@
 
 
 ### :man_technologist: About Me :
-I am  a Python programmer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Egypt.
+I am a data scientist, Python programmer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">, I have good skills with Python Libraries Pandas, Numpy, sklearn, Matplotlip, Seaborn and I'm good in building Machin earning Models, data analysis, data visualisation.
 
 ---
 
